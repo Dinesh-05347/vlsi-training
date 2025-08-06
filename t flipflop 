@@ -5,4 +5,4 @@ module t_ff(input clk, rst, t, output reg q);
 　　else if (t)
 　　q <= ~q;
 　　end
-　　endmodule
+　　endmodule 
